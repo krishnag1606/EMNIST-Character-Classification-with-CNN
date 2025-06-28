@@ -4,8 +4,8 @@ This repository contains a Python implementation for training and evaluating a C
 
 ## Co-Authors
 
-Krishna Gupta                                                                      https://github.com/krishnag1606
-Shashwat Kumar Banal                                                               https://github.com/shashwatb23
+* Krishna Gupta                                                                      https://github.com/krishnag1606
+* Shashwat Kumar Banal                                                               https://github.com/shashwatb23
 
 ### Table of Contents
 
