@@ -2,6 +2,11 @@
 
 This repository contains a Python implementation for training and evaluating a Convolutional Neural Network (CNN) on the EMNIST (Extended MNIST) ByClass dataset, which consists of 62 classes of handwritten characters (digits and letters).
 
+##Co-Authors
+
+Krishna Gupta                                                                      https://github.com/krishnag1606
+Shashwat Kumar Banal                                                               https://github.com/shashwatb23
+
 ### Table of Contents
 
 * [Project Overview](#project-overview)
